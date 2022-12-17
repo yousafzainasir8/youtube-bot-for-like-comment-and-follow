@@ -1,0 +1,15 @@
+beautifulsoup4
+bs4
+certifi
+chardet
+idna
+numpy
+requests
+selenium
+soupsieve
+spintax
+urllib3
+webdriver_manager
+undetected_chromedriver
+lxml
+config
